@@ -11,7 +11,11 @@ $(document).ready(function() {
 function initializePage() {
 	console.log("Page ready");
  	// initCamera();
+<<<<<<< HEAD
  	initMap();
+=======
+ 	// initMap();
+>>>>>>> 096a5140df509363ecaf3f8a0132e13215542712
  	initGestures();
  	initRSVPForm();
 }
